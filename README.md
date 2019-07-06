@@ -7,4 +7,4 @@ The Storyteller sets the difficulty of any action being taken, the threshold at 
 
 However, if the result of any dice roll is a 1, it is a critical failure. Each critical failure subtracts from the highest rolled success until there are no more 1's or the number of total successes reach zero.
 
-This dice generator is a function, where you enter the number of dice, and the difficulty number as arguments. It interprets the resluts of the dice roll, including critical failures, and then logs the result of the action being taken.
+This dice generator is a function, where you enter the number of dice, and the difficulty number as arguments. It interprets the results of the dice roll, including critical failures, and then logs the result of the action being taken.
